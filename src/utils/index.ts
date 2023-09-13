@@ -1,0 +1,1 @@
+export {swaggerDoc} from './swaggerDoc'
